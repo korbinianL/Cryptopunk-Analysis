@@ -1,0 +1,13 @@
+transaction_id,transaction_type
+1,Transfer
+2,Bid Withdrawn
+3,Bid
+4,Claimed
+5,"(Unwrap, Legacy)"
+6,"(Wrap, Legacy)"
+7,Offer Withdrawn
+8,Offered
+9,Sold
+10,Bid *
+11,(Unwrap)
+12,(Wrap)
