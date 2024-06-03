@@ -1,4 +1,4 @@
 # Cryptopunk-Analysis
 <p align="center">
-  <img src="" alt="botasaurus" />
+  <img src="images/Cryptopunks.png" alt="Cryptopunks" />
 </p>
